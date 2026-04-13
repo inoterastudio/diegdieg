@@ -1,0 +1,39 @@
+Warning: React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element.%s fetchPriority fetchpriority 
+    at img
+    at div
+    at OptimizedImage (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/components/shared/optimized-image.tsx:27:3)
+    at div
+    at MotionComponent (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js?v=ab1797f7:945:40)
+    at section
+    at main
+    at div
+    at ProjectDetailPage (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/pages/project/[id].tsx?t=1746540892547:196:18)
+    at Route (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=ab1797f7:323:16)
+    at Switch (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=ab1797f7:379:17)
+    at Router (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/App.tsx?t=1746541005309&v=_Y2Wqkz281SMKE6ubzsB0:52:3)
+    at Provider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-ZTXB6ZXA.js?v=ab1797f7:32:15)
+    at TooltipProvider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=ab1797f7:56:5)
+    at ThemeProvider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/components/theme/theme-provider.tsx?t=1746540892547:25:3)
+    at QueryClientProvider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=ab1797f7:2805:3)
+    at App
+	
+	
+	
+	Warning: React does not recognize the `%s` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `%s` instead. If you accidentally passed it from a parent component, remove it from the DOM element.%s fetchPriority fetchpriority 
+    at img
+    at div
+    at OptimizedImage (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/components/shared/optimized-image.tsx:27:3)
+    at div
+    at MotionComponent (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js?v=ab1797f7:945:40)
+    at section
+    at main
+    at div
+    at FurnitureCatalogPage (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/pages/service/furniture.tsx?t=1746540892547:207:49)
+    at Route (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=ab1797f7:323:16)
+    at Switch (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=ab1797f7:379:17)
+    at Router (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/App.tsx?t=1746541005309&v=z0WhV0iygJkZaYqnV7wcg:52:3)
+    at Provider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-ZTXB6ZXA.js?v=ab1797f7:32:15)
+    at TooltipProvider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=ab1797f7:56:5)
+    at ThemeProvider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/src/components/theme/theme-provider.tsx?t=1746540892547:25:3)
+    at QueryClientProvider (https://62b2cdcb-c6a6-4662-8c34-9de00804ab88-00-11xqcqpz2cd5s.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=ab1797f7:2805:3)
+    at App
